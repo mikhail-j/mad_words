@@ -1,0 +1,16 @@
+div {
+	width:640px;
+	text-align: left;
+}
+
+p {
+	margin:0;
+	padding:0;
+	display: inline;
+	line-height:150%;
+}
+
+body{
+	font-family: Lato, "Droid Sans", Arial;
+	font-size:x-large;
+}
